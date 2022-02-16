@@ -11,3 +11,4 @@ paste this file in the same folder
 
 After installing the libraries clone this directory, add some images of jpg format in this folder.
 Then run the file image.py, enter the image name and it will generate the output in the same folder
+Output of image will be generated as output.jpg and metadata file as ouput.txt in the same folder.
